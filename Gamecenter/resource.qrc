@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>music2.mp3</file>
+        <file>music1.mp3</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>exit.png</file>
+        <file>Music.png</file>
+        <file>musicmuted.png</file>
+        <file>2048.png</file>
+        <file>spider.png</file>
+        <file>undo.png</file>
+        <file>undo2.png</file>
+        <file>background.png</file>
+    </qresource>
+</RCC>
