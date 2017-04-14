@@ -1,4 +1,5 @@
 
+Cordialement,
 # AutonomieEcl
 EC Lyon Project 
 étudiant : ULL Johannes
@@ -10,4 +11,8 @@ Avec les boutons du menubar vous pouvez retourner au menu et retourner / recomme
 dans le menubar vous pouvez changer la music ou bien l'étendre. Malheureusement l'espace n'a que suffit pour mettre de 8Bit chiptune music
 donc elle n'est pas trop agréable :) 
 Il est possible qu'il faut attendre un peu lors le premier lancement du programme mais après ca marche rapidement.
+
+----------Une chose importante : -----------------
+Le compiler dit souvent au début quelques messages erreurs "undefined reference to mainwindow on push button clicked", il suffit de supprimer ces lignes. Je sais pas pourquoi le logiciel les ajoute chaque fois alors que je les supprime mais c'est dans le moc file qui est généré par le logiciel.
+
 
